@@ -1,5 +1,4 @@
-//THERE ARE 3 PLACES IN THE CODE YOU NEED TO LOOK WHEN YOU ADD A SONG THEY ARE LABELLED SONG_PLACE SO YOU CAN USE FIND
-
+//a 2- kinect karaoke app! 
 
 import kinectOrbit.*;
 import controlP5.*;
